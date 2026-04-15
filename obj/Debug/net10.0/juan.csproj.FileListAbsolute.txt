@@ -95,3 +95,4 @@
 /home/csharp/RiderProjects/juan/obj/Debug/net10.0/juan.pdb
 /home/csharp/RiderProjects/juan/obj/Debug/net10.0/juan.genruntimeconfig.cache
 /home/csharp/RiderProjects/juan/obj/Debug/net10.0/ref/juan.dll
+/home/csharp/RiderProjects/juan/obj/Debug/net10.0/juan.sourcelink.json

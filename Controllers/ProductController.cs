@@ -9,6 +9,14 @@ public class ProductController : Controller
         return View();
     }
     
+    public IActionResult Create()
+    {
+        return View();
+    }
+    public IActionResult Show()
+    {
+        return View();
+    }
     public IActionResult Remove()
     {
         return View();
